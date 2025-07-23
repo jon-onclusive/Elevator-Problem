@@ -1,7 +1,5 @@
 # Problem overview
 
-**If you do not have an IDE available, you can use the online compiler at https://dotnetfiddle.net**
-
 - We are inside a skyscraper with 1001 floors, numbered from 0 on the bottom to 1000 on the top.
 
 - A group of people is on the floor number currentFloor. An empty elevator going in the direction currentDirection (1 means upwards, -1 means downwards) just arrived and opened its doors.
