@@ -15,6 +15,8 @@
 
 - Return a int[] containing the numbers of floors on which the elevator will stop, in order.
 
+- Please avoid AI responses, we want to see independent thought process. Feel free to ask any questions or discuss your process.
+
 - Definition
   - Class: `ElevatorButtons`
   - Method Signature: `int[] NextStops(int currentFloor, int currentDirection, int[] buttonsPressed)`
